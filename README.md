@@ -74,4 +74,4 @@ Developed by:Dharshan Babu A       RegisterNumber:25008132
 
 
 **Result:**
-To design a half adder and half subtractor circuit in Quartus using Verilog programming is done.
+ Thus the Half Adder and Half Subtractor circuits are designed and the truth tables is verified using Quartus software.
